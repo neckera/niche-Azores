@@ -1,5 +1,8 @@
 # niche-Azores
-Scripts from paper "Dispersal syndromes are poorly associated with climatic niche differences in the Azorean seed plants", Leo et. al (2021) Journal of Biogeography
+Scripts from paper "Dispersal syndromes are poorly associated with climatic niche differences in the Azorean seed plants"
+María Leo, Manuel J. Steinbauer, Paulo A.V. Borges, Eduardo B. de Azevedo, Rosalina Gabriel, Hanno Schaefer & Ana M. C. Santos
+Journal of Biogeography (2021)
+DOI 10.1111/jbi.14151
 
 Authors: María Leo & Manuel J. Steinbauer
 
