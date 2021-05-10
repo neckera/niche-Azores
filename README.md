@@ -7,12 +7,14 @@ Journal of Biogeography (2021)
 
 DOI 10.1111/jbi.14151
 
-Authors: María Leo & Manuel J. Steinbauer
 
-Script 1. Extract climatic data in occurrences. R
+
+Scripts authors: María Leo & Manuel J. Steinbauer
+
+Script 1. Extract climatic data in occurrences.R
 
 Script 2. Calculate niche volume.R
 
-Script 3. Calculate niche fill. R
+Script 3. Calculate niche fill.R
 
 Script 4. Calculate results and plots.R
